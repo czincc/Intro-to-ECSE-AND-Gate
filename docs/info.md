@@ -13,7 +13,7 @@ Two input AND gate that outputs to an LED.
 
 ## How to test
 
-Modify A and B.
+Modify A and B (inputs to AND).
 
 ## External hardware
 
